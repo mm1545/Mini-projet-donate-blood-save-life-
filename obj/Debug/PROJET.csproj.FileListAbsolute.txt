@@ -1,0 +1,17 @@
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\bin\Debug\PROJET.exe.config
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\bin\Debug\PROJET.exe
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\bin\Debug\PROJET.pdb
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.csproj.AssemblyReference.cache
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.Form1.resources
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.Properties.Resources.resources
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.csproj.GenerateResource.cache
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.csproj.CoreCompileInputs.cache
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.exe
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.pdb
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.Form2.resources
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.Form3.resources
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.Form4.resources
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.Form5.resources
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.Form6.resources
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.Form7.resources
+C:\Users\maymi\OneDrive\Documents\2eme fac\S2\FRAME\PROJET\obj\Debug\PROJET.Form8.resources
